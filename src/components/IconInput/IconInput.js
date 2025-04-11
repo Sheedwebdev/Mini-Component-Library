@@ -42,7 +42,7 @@ const TextInput = styled.input`
   border: none;
   border-bottom: 1px solid ${COLORS.black};
   padding-left: 24px;
-  color: ${COLORS.gray700};
+  color: blue;
   font-weight: 700;
 
   &::placeholder {
